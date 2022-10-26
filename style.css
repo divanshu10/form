@@ -1,0 +1,16 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#registration-form{
+            height: auto;
+            width: 600px;
+            background-color: rgb(196, 134, 147);
+            padding: 8px;
+            margin: 35px auto;
+            border: 2px solid rgb(219, 152, 152);
+            box-shadow: 2px 2px 2px 2px;  
+
+}
